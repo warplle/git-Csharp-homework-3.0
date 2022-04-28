@@ -1,0 +1,15 @@
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.csproj.AssemblyReference.cache
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.AssemblyInfoInputs.cache
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.AssemblyInfo.cs
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.csproj.CoreCompileInputs.cache
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\bin\Debug\net6.0\git-Csharp-homework-3.0.exe
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\bin\Debug\net6.0\git-Csharp-homework-3.0.deps.json
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\bin\Debug\net6.0\git-Csharp-homework-3.0.runtimeconfig.json
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\bin\Debug\net6.0\git-Csharp-homework-3.0.dll
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\bin\Debug\net6.0\git-Csharp-homework-3.0.pdb
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.dll
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\refint\git-Csharp-homework-3.0.dll
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.pdb
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\git-Csharp-homework-3.0.genruntimeconfig.cache
+D:\C#\repositories\git-Csharp-homework-3.0\git-Csharp-homework-3.0\obj\Debug\net6.0\ref\git-Csharp-homework-3.0.dll
